@@ -69,6 +69,11 @@
       "from": "@angular/tsc-wrapped@4.2.5",
       "resolved": "https://registry.npmjs.org/@angular/tsc-wrapped/-/tsc-wrapped-4.2.5.tgz"
     },
+    "@ng-bootstrap/ng-bootstrap": {
+      "version": "1.0.0-beta.2",
+      "from": "@ng-bootstrap/ng-bootstrap@latest",
+      "resolved": "https://registry.npmjs.org/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-1.0.0-beta.2.tgz"
+    },
     "@ngtools/webpack": {
       "version": "1.5.0",
       "from": "@ngtools/webpack@latest",
@@ -439,9 +444,9 @@
       }
     },
     "bootstrap": {
-      "version": "3.3.7",
-      "from": "bootstrap@3.3.7",
-      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.7.tgz"
+      "version": "4.0.0-beta",
+      "from": "bootstrap@4.0.0-beta",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-4.0.0-beta.tgz"
     },
     "brace-expansion": {
       "version": "1.1.8",
@@ -2362,6 +2367,11 @@
       "version": "2.0.1",
       "from": "pinkie-promise@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz"
+    },
+    "popper.js": {
+      "version": "1.12.3",
+      "from": "popper.js@latest",
+      "resolved": "https://registry.npmjs.org/popper.js/-/popper.js-1.12.3.tgz"
     },
     "posix-character-classes": {
       "version": "0.1.1",
